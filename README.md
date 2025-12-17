@@ -1,24 +1,63 @@
-<h1>🔢 Web-Based Calculator</h1>
+<h1 align="center">🔢 Web-Based Calculator</h1>
 
-A modern, responsive Web-Based Calculator built using HTML, CSS, and JavaScript.
-Designed with a clean UI and smooth interactions to perform essential arithmetic operations directly in the browser.
+<p align="center">
+  A modern, responsive web-based calculator built using core web technologies.
+  This project demonstrates fundamental JavaScript logic, clean UI design,
+  and practical problem-solving skills suitable for internships and placements.
+</p>
 
-✨ Features
+<hr>
 
-Responsive and mobile-friendly design
+<h2>🎯 Key Focus Areas (Placements & Internships)</h2>
+<ul>
+  <li>
+    <strong>Core JavaScript Logic:</strong>
+    Implements essential arithmetic operations with proper input validation
+    and error handling.
+  </li>
+  <li>
+    <strong>Responsive UI Design:</strong>
+    Clean, user-friendly interface that works seamlessly across desktop
+    and mobile devices.
+  </li>
+  <li>
+    <strong>Lightweight & Efficient:</strong>
+    Built without external libraries, focusing on optimized performance
+    and browser compatibility.
+  </li>
+</ul>
 
-Supports Addition, Subtraction, Multiplication, and Division
+<h2>✨ Features</h2>
+<ul>
+  <li>Responsive and mobile-friendly design</li>
+  <li>Supports addition, subtraction, multiplication, and division</li>
+  <li>Error handling for invalid inputs</li>
+  <li>Fast execution with no external dependencies</li>
+  <li>Simple and intuitive user interface</li>
+</ul>
 
-Error handling for invalid inputs
+<h2>🛠️ Technologies Used</h2>
+<ul>
+  <li><strong>HTML5</strong> – Structure and layout</li>
+  <li><strong>CSS3</strong> – Styling and responsiveness</li>
+  <li><strong>JavaScript (ES6)</strong> – Logic and user interaction</li>
+</ul>
 
-Lightweight and fast — no external libraries required
+<h2>📌 Objective</h2>
+<p>
+  This project is developed to strengthen my understanding of front-end development
+  fundamentals and to showcase hands-on JavaScript skills for internship and
+  placement opportunities.
+</p>
 
-Simple and intuitive interface
+<h2>🌍 Live Preview</h2>
+<p>
+  🚀 <em>Will be added after deployment</em>
+</p>
 
-🛠️ Technologies Used
+<hr>
 
-HTML5 – Page structure
-
-CSS3 – Styling and layout
-
-JavaScript (ES6) – Logic and user interaction
+<p align="center">
+  📚 Continuously improving with more features and projects. <br>
+  <strong>Open to internships and entry-level opportunities.</strong>
+</p>
